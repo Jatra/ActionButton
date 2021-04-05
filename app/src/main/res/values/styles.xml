@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Widget.Theme.ActionButton.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+        <item name="exampleColor">@color/light_blue_400</item>
+    </style>
+
+
+    <style name="ActionButton" parent="@style/Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">@drawable/action_button_selector</item>
+    </style>
+</resources>
