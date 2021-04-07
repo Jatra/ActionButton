@@ -3,5 +3,5 @@
     <item
         android:drawable="@drawable/ic_baseline_lock_24_enabled"/>
     <item
-        android:drawable="@drawable/progress"/>
+        android:drawable="@drawable/spinning"/>
 </layer-list>
